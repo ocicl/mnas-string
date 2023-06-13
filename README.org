@@ -1,0 +1,10 @@
+* mnas-string
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mnasoft/mnas-string.git   |
+| commit  | 4f45721  |
+| systems | mnas-string |
+|---------+-------------------------------------------|
+
