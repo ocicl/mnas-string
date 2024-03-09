@@ -4,6 +4,6 @@
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/mnasoft/mnas-string.git |
-| commit  | ad49484                                        |
+| commit  | 6aad0b7                                        |
 | systems | mnas-string                                    |
 |---------+------------------------------------------------|
